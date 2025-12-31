@@ -1,0 +1,8 @@
+{
+  "name": "Amora AI - Intelligent Dating Experience",
+  "description": "A sophisticated dating application featuring AI-powered profile assistance, match compatibility insights, and personalized ice-breakers using Gemini technology.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
